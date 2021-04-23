@@ -1,10 +1,10 @@
 {
-    "name": "silvanite/brandenburg",
+    "name": "stardothosting/brandenburg",
     "description": "Laravel Authentication Package",
     "authors": [
         {
-            "name": "Marco Mark (m2de)",
-            "email": "marco@silvanite.com"
+            "name": "Shift8 Web",
+            "email": "sales@shift8web.com"
         }
     ],
     "license": "MIT",
